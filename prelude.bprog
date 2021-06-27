@@ -1,0 +1,13 @@
+pi 3.14 := 
+zero 0 := 
+leet 1337 := 
+hundred 100 := 
+thousand 1000 := 
+million 1000000 := 
+double { 2 * } fun 
+modulo { % } fun 
+greaterthan { > } fun 
+lessthan { < } fun 
+AND { && } fun 
+OR { || } fun 
+squared { dup * } fun
